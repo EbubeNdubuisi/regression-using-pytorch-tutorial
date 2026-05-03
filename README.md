@@ -146,10 +146,6 @@ This project was completed as part of:
 
 For questions or collaborations, please open an issue or submit a pull request.
 
-## 📄 License
-
-This project is available under the MIT License. See LICENSE file for details.
-
 ---
 
 *This project demonstrates the application of deep learning techniques for weather prediction, showcasing the effectiveness of neural networks in capturing meteorological relationships.*
